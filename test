@@ -1,0 +1,38 @@
+
+
+
+
+
+  Web browser(localhost:8000/helloworld) => request(요청).header
+
+   => 서버
+
+
+    [ 오 helloworld냐? 그러면 helloworld.html 준다 ]
+
+     Web server(8000)
+
+     Web browser  <=
+
+
+
+
+
+     helloworld.html
+
+             HTML
+             Style
+
+
+
+
+      DATABASE
+          Data
+             key (100글자) - value (100글자)
+             '이름'          '이승운'
+             '나이'          '31'
+
+          Comment
+             text(1000글자)
+             '나이많아요'
+             Data를 가리킨다.(3)
